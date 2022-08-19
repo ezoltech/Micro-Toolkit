@@ -1,0 +1,30 @@
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.exe.config
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.exe
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.pdb
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.csproj.AssemblyReference.cache
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Form1.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Main_Menu.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Properties.Resources.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.csproj.GenerateResource.cache
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.csproj.CoreCompileInputs.cache
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.exe
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.pdb
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Convertor.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Note_Taker.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Reminder.resources
+C:\Users\ezol best\Desktop\projects\java and c#\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Calander.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.exe.config
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.exe
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.pdb
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Calander.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Convertor.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Form1.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Main_Menu.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Note_Taker.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Properties.Resources.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro ToolKit.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.exe
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.Calculator.resources
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\bin\Debug\Micro ToolKit.pdb
+C:\Users\admin\Desktop\Micro ToolKit\Micro ToolKit\obj\Debug\Micro_ToolKit.About_Page.resources
